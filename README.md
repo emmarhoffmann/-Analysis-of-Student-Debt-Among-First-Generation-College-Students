@@ -22,7 +22,7 @@ The dataset consists of variables like FirstGen, Debt, MedIncome, NetIncome, Enr
 - **State-Level Analysis**: Significant variation in debt and first-generation student percentage across states.
 
 ## Files
-- `Analysis_Scripts.Rmd`: Contains the R code used for the analysis.
+- `Analysis Scripts.Rmd`: Contains the R code used for the analysis.
 - `Analysis Report.pdf`: Detailed report of the findings.
 
 ## Conclusion
