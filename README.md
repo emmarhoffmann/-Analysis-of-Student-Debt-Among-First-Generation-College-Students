@@ -28,4 +28,4 @@ The dataset consists of variables like FirstGen, Debt, MedIncome, NetIncome, Enr
 This project highlights the financial challenges faced by first-generation college students and provides data-driven insights that could inform policies to reduce student debt disparities.
 
 ## References
-Data sourced from the Lock5stat.com dataset, supported by relevant course materials and AI-assisted report generation.
+- Data sourced from Lock5stat.com datasets.
